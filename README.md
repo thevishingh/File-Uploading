@@ -109,3 +109,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 : https://expressjs.com/
 : https://docs.mongodb.com/
 : https://cloudinary.com/documentation
+
+Developed and maintained by Vishal Singh.
