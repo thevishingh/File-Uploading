@@ -17,7 +17,6 @@ This repository is designed as a practical guide to help you learn how to implem
 - **MongoDB**: NoSQL database for storing file metadata
 - **Mongoose**: ODM for MongoDB
 - **Cloudinary**: Cloud-based image and video management
-- **Multer**: Middleware for handling multipart/form-data (file uploads)
 - **dotenv**: For managing environment variables
 
 ## Getting Started
